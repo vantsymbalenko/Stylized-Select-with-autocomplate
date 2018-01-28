@@ -1,0 +1,4 @@
+#ignor folder node_modules
+node_modules/*
+#ignor folder with jquery
+src/libs/*
